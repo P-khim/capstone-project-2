@@ -1,0 +1,14 @@
+body {
+  background-image: url("./assets/pattern-background.jpg");
+}
+.container-fluid {
+  background-color: #61677a;
+  padding: 0px;
+}
+.navbar {
+  padding: 0px;
+}
+footer {
+  background-color: #61677a;
+  margin: 0;
+}
